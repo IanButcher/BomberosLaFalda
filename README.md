@@ -17,9 +17,13 @@
     - Fernandez Ezequiel
     - Rodriguez Ignacio
 
+<<<<<<< Updated upstream
 ## Teacher:
 
     - Luis Siccardi
 
 ## Main language: Spanish
 
+=======
+## Main language: Spanish
+>>>>>>> Stashed changes
