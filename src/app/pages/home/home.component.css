@@ -16,7 +16,7 @@ span { color: rgb(44, 3, 3);
 }
 .contenedor col-md-8{ 
     display: flex;
-}
+} 
   
 .imagenChiquita {
   width: 30vw;
