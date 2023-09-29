@@ -10,12 +10,21 @@ import { FooterComponent } from './shared/footer/footer.component';
 import { HeaderComponent } from './shared/header/header.component';
 import { NavComponent } from './shared/nav/nav.component';
 
+import { HomeComponent } from './pages/home/home.component';
+import { LoginComponent } from './pages/login/login.component';
+import { ProfileComponent } from './pages/profile/profile.component';
+import { SiniestrosComponent } from './pages/siniestros/siniestros.component';
+
 @NgModule({
   declarations: [
     AppComponent,
     FooterComponent,
     HeaderComponent,
-    NavComponent
+    NavComponent,
+    HomeComponent,
+    LoginComponent,
+    ProfileComponent,
+    SiniestrosComponent
   ],
   imports: [
     BrowserModule,
