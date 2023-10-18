@@ -86,3 +86,16 @@ body {
       color: white;
       width: 40px;
     }
+
+
+    hr{
+      margin-top: 10px;
+   } 
+   
+   .ubicacion{
+      font-size: 15px;
+      text-align: start;
+      color: aliceblue;
+      margin-top: 10px;
+      margin-left: 10px;
+   }    
