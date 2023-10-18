@@ -16,6 +16,7 @@
     - Guevara Indira
     - Fernandez Ezequiel
     - Rodriguez Ignacio
+    - Mayr Juan Ignacio 
 
 <<<<<<< Updated upstream
 ## Teacher:
