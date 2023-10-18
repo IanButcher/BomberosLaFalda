@@ -16,15 +16,12 @@
     - Guevara Indira
     - Fernandez Ezequiel
     - Rodriguez Ignacio
+    - Mayr Juan Ignacio 
     - Juan Ignacio Mayr
 
-<<<<<<< Updated upstream
 ## Teacher:
 
     - Luis Siccardi
 
 ## Main language: Spanish
 
-=======
-## Main language: Spanish
->>>>>>> Stashed changes
