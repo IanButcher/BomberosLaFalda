@@ -1,4 +1,4 @@
-* {
+/* {
     margin: 0;
     padding: 0;
 }
@@ -24,4 +24,29 @@ p {
   margin-left: 400px;
   margin-right: 40px;
   margin-top: 20px;
+}*/
+*{
+  margin: 0;
+}
+
+
+header{
+  width: 100%;
+  height: 120px;
+  background-color: rgb(165, 41, 41);
+  display: flex;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(255, 255, 255);
+}
+img{
+  margin-left: 60px;
+  height: 90px;
+  margin-top: 20px;
+
 }
