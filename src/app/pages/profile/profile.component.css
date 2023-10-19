@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-  background: #202020;
+
   font-family: 'Krub', sans-serif;
 }
 
@@ -23,8 +23,8 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  width: 250px;
-  height: 400px;
+  width: 350px;
+  height: 550px;
   border-radius: 10px;
   box-shadow: 0 10px 25px 5px rgba(0, 0, 0, 0.2);
   background: #151515;
@@ -36,9 +36,9 @@ body {
     top: 0;
     right: 0;
     left: 0;
-    width: 300px;
-    height: 80px;
-    background: crimson;
+    width: 350px;
+    height: 100px;
+    background: #7e7a7a;
     animation: dsTop 1.5s;
 }
 .avatar-holder {
@@ -62,7 +62,7 @@ body {
 .name {
     position: absolute;
     margin: auto;
-    top: -60px;
+    top: -200px;
     right: 0;
     bottom: 0;
     left: 0;
@@ -86,3 +86,16 @@ body {
       color: white;
       width: 40px;
     }
+
+ hr{
+    margin-top: 10px;
+ } 
+ 
+ .ubicacion{
+    font-size: 15px;
+    text-align: start;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-left: 10px;
+ }
+   
