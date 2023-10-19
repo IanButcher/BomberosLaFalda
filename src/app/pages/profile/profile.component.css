@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Krub:400,700');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: #202020;
+  font-family: 'Krub', sans-serif;
+}
+
+.card {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 250px;
+  height: 400px;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px 5px rgba(0, 0, 0, 0.2);
+  background: #151515;
+  overflow: hidden;
+}
+.ds-top {
+    position: absolute;
+    margin: auto; 
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 300px;
+    height: 80px;
+    background: crimson;
+    animation: dsTop 1.5s;
+}
+.avatar-holder {
+    position: absolute;
+    margin: auto;
+    top: 40px;
+    right: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: white;
+    overflow: hidden;
+    animation: mvTop 1.5s;
+    }
+.avatar-holder img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+.name {
+    position: absolute;
+    margin: auto;
+    top: -60px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: inherit;
+    height: 40px;
+    text-align: center;
+    animation: fadeIn 2s ease-in;
+    }
+.name p{
+      color: white;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 18px;
+    }
+.name h6 {
+      position: absolute;
+      margin: auto;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      color: white;
+      width: 40px;
+    }
