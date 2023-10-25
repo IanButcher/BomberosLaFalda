@@ -14,8 +14,25 @@ p {
 span { color: rgb(44, 3, 3);
   font-weight: 600;
 }
-.contenedor col-md-8{ 
-    display: flex;
+
+img {
+  width: 500px;
+}
+
+.color {
+  box-sizing: border-box;
+  background: rgb(192, 165, 165);
+  color: #fff;
+  padding: 20px 20px;
+  border-radius: 30px;
+}
+
+.contenedor { 
+  align-items: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
 } 
   
 .imagenChiquita {
