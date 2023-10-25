@@ -1,40 +1,35 @@
-* {
+*{
     margin: 0;
-    padding: 0;
 }
-  
-p {
-    font-size: 18px;
-    margin: 10px 0;
-    color: rgb(238, 226, 226);
-    margin-left: 0px;
-}
-  
-.img-container{
-    object-position: right;
-    width: 40px;
-    height: 40px;
+footer{
+    background-color: #313032;
+    width: 100vw;
+    height: 30vh;
     display: flex;
-    margin: 3px;
-    display: inline-block;
+    justify-content: space-between;
 }
-  
-.footer-bomberos{
-    margin-top: 70px;
-    background-color:rgb(116, 60, 60) ;
+.container-img-p{
     display: flex;
-    text-align: center 
 }
-  
-.aliniarIzquierda {
-    text-align:left
+
+.text{
+   padding-top: 45px;
+   font-size: 20px;
+   padding-left: 40px;
+   color: white;
 }
-  
-.footer-parafo {
-    background-color:rgb(75, 28, 28);
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-    margin-top: 0px;
-    
+img{
+    padding-left: 30px;
+}
+.icono{
+    padding-right: 50px;
+    padding-top: 40px;
+}
+.container-icon{
+    padding-top: 10%;
+    padding-left: 30%;
+}
+.container-icon img{
+    padding-top: 10%;
+    padding-left: 30%;
 }
