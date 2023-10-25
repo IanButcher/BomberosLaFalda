@@ -18,18 +18,20 @@ footer{
    padding-left: 40px;
    color: white;
 }
-img{
-    padding-left: 30px;
+
+.container-icons{
+    display: flex;
+    margin-top: 40px;
+    margin-right: 50px;
 }
-.icono{
-    padding-right: 50px;
-    padding-top: 40px;
+.icon-f-i{
+    display: grid;
+    grid-column: auto;
+    margin-right: 30px;
+    margin-top: 20px;
+    
 }
-.container-icon{
-    padding-top: 10%;
-    padding-left: 30%;
-}
-.container-icon img{
-    padding-top: 10%;
-    padding-left: 30%;
+
+.facebook{ 
+    margin-top: -40px;
 }
