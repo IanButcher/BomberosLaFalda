@@ -4,6 +4,7 @@ import { LoginComponent } from './login/login.component';
 import { ProfileComponent } from './profile/profile.component';
 import { HomeComponent } from './home/home.component';
 import { SiniestrosComponent } from './siniestros/siniestros.component';
+import { HistorialComponent } from './historial/historial.component';
 
 
 
@@ -12,7 +13,8 @@ import { SiniestrosComponent } from './siniestros/siniestros.component';
     LoginComponent,
     ProfileComponent,
     HomeComponent,
-    SiniestrosComponent
+    SiniestrosComponent,
+    HistorialComponent
   ],
   imports: [
     CommonModule
