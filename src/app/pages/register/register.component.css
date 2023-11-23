@@ -5,23 +5,9 @@
     height: 100%;
     margin-top: 0%;
 }
-.form-box2{
-    width: 380px;
-    height: 420px;
-    background: rgb(0, 13, 23);
-    color: #fff;
-    top: 50%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50%, -200%);
-    box-sizing: border-box;
-    padding: 70px 30px;
-    margin-top: 5%;
-    border-radius: 7px;
-}
 .form-box{
-    width: 320px;
-    height: 420px;
+    width: 28%;
+    height: 98%;
     background: rgb(170, 170, 170);
     color: #fff;
     top: -50%;
@@ -47,7 +33,7 @@
 }
 .form-box input{  
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 7%;
 }
 .form-box input[type="text"],
 .form-box input[type="password"]{
