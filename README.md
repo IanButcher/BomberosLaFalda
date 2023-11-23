@@ -8,7 +8,7 @@
 
 ## Needed info
 
-    This web application was designed for the sole and exclusive use of the volunteer firefighters of the La Falda headquarters and not for people who do not belong to it, therefore, its use is not recommended for people who are not part of the barracks.
+    This web application was designed for the sole and exclusive use of the volunteer firefighters of the La Falda barracks, for the registration of confidential information. Not for people who do not belong to it, therefore, its use is not recommended for people who are not part of the barracks.
 
 ## Developers:
 
