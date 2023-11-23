@@ -14,7 +14,8 @@ import { HomeComponent } from './pages/home/home.component';
 import { LoginComponent } from './pages/login/login.component';
 import { ProfileComponent } from './pages/profile/profile.component';
 import { SiniestrosComponent } from './pages/siniestros/siniestros.component';
-import { HistorialComponent } from './pages/historial/historial.component'
+import { HistorialComponent } from './pages/historial/historial.component';
+import { RegisterComponent } from './pages/register/register.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { HistorialComponent } from './pages/historial/historial.component'
     LoginComponent,
     ProfileComponent,
     SiniestrosComponent,
-    HistorialComponent
+    HistorialComponent,
+    RegisterComponent
   ],
   imports: [
     BrowserModule,
